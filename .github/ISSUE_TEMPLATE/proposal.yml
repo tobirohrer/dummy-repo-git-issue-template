@@ -3,11 +3,6 @@ description: A clear and concise description of the proposal.
 title: "[Proposal] Proposal title"
 labels: ["enhancement"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this proposal!
-        
   - type: textarea
     id: proposal
     attributes:
