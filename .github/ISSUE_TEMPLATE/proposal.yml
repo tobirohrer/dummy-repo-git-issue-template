@@ -43,5 +43,7 @@ body:
     attributes:
       label: Checklist
       options:
-        - label: I have checked that there is no similar [issue](https://github.com/Farama-Foundation/Gymnasium/issues) in the repo
+        - label: >
+            I have checked that there is no similar [issue](https://github.com/Farama-Foundation/Gymnasium/issues) in
+            the repo
           required: true
